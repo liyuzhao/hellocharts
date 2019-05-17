@@ -1,6 +1,8 @@
 [![](https://jitpack.io/v/liyuzhao/hellocharts.svg)](https://jitpack.io/#liyuzhao/hellocharts)
 
 
+>2.x 已经迁移到androidx
+
 #### Step 1.
 Add it in your root build.gradle at the end of repositories:
 
